@@ -25,9 +25,44 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+
+              "src/styles.css",
+              "src/assets/css/preloader.css",
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/meanmenu.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/owl-carousel.css",
+              "src/assets/css/swiper-bundle.css",
+              "src/assets/css/backtotop.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/nice-select.css",
+              "src/assets/flaticon/flaticon.css",
+              "src/assets/css/font-awesome-pro.css",
+              "src/assets/css/default.css",
+              "src/assets/css/style.css",
+              "src/assets/css/map.css"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/jquery/dist/jquery.min.js",
+              "./node_modules/bootstrap/dist/js/bootstrap.js",
+              "src/assets/js/ajax-form.js",
+              "src/assets/js/backtotop.js",
+              "src/assets/js/countdown.min.js",
+              "src/assets/js/counterup.js",
+              "src/assets/js/imagesloaded-pkgd.js",
+              "src/assets/js/isotope-pkgd.js",
+              "src/assets/js/magnific-popup.js",
+              "src/assets/js/main.js",
+              "src/assets/js/meanmenu.js",
+              "src/assets/js/nice-select.js",
+              "src/assets/js/owl-carousel.js",
+              "src/assets/js/parallax.js",
+              "src/assets/js/swiper-bundle.js",
+              "src/assets/js/tweenmax.js",
+              "src/assets/js/ui-slider-range.js",
+              "src/assets/js/wow.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +129,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "62b6aa72-61b3-41d8-9423-33ff71f05163"
   }
 }
